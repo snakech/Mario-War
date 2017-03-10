@@ -1,0 +1,40 @@
+SDL init <done>
+video mode @ 640*480*16 <done>
+SDL init <done>
+video mode @ 640*480*16 <done>
+SDL init <done>
+video mode @ 640*480*16 <done>
+SDL init <done>
+video mode @ 640*480*16 <done>
+SDL init <done>
+video mode @ 640*480*16 <done>
+SDL init <done>
+video mode @ 640*480*16 <done>
+SDL init <done>
+video mode @ 640*480*16 <done>
+SDL init <done>
+video mode @ 640*480*16 <done>
+SDL init <done>
+video mode @ 640*480*16 <done>
+SDL init <done>
+video mode @ 640*480*16 <done>
+SDL init <done>
+video mode @ 640*480*16 <done>
+SDL init <done>
+video mode @ 640*480*16 <done>
+SDL init <done>
+video mode @ 640*480*16 <done>
+SDL init <done>
+video mode @ 640*480*16 <done>
+SDL init <done>
+video mode @ 640*480*16 <done>
+SDL init <done>
+video mode @ 640*480*16 <done>
+SDL init <done>
+video mode @ 640*480*16 <done>
+SDL init <done>
+video mode @ 640*480*16 <done>
+SDL init <done>
+video mode @ 640*480*16 <done>
+SDL init <done>
+video mode @ 640*480*16 <done>
