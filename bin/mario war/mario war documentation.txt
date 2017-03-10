@@ -1,0 +1,27 @@
+Developer:Zihao CHEN
+game name: Mario War
+developing language: C++
+SDK: vc6.0 + SDL
+developing time: 7 days
+
+Control:
+left  :  move left
+right  :  move right
+up   :  move up
+down   : move down
+space  : super jump
+F11  : sceen cut
+ESC   : EXIT
+
+Details:
+Firstly, this is just a small game programming practice.
+This game is a remade version of the Super Mario, the game source is from the original version. This game has totally 25 levels
+you can kill the monster to get the 10 marks per time. If you can get 100 points in 255 secs, you can enter the next level. 
+But never ever touch the monster, otherwise you will lost 10 marks
+I released the source code and map editor with this game, you can develop a funny map by yourself
+
+
+contact number:
+ 02102762668
+email:
+ zch31@uclive.ac.nz
